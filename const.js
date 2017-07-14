@@ -9,7 +9,7 @@ if (!WIT_TOKEN) {
 // Messenger API parameters
 const FB_PAGE_TOKEN = "EAAGdQoMFEoMBAFP0PO2ZBs6X88UpGeGP75GDT4vYL0AL8vLeENDSa2MwNUnvkCh2Mwzq7ZAfNDW70d5mYg7zmvzLyV2ngQuc3OL6Il1BVSayxwh6TZAYH57FGPDGI9e1Jd7T5Gw9OwCa0xjfbr9sMVmEmWqDpmdpOrrklanQwZDZD";
 
-var FB_VERIFY_TOKEN = "capgemini_banking_bot";
+var FB_VERIFY_TOKEN = "12345";
 if (!FB_VERIFY_TOKEN) {
   FB_VERIFY_TOKEN = "capgemini_banking_bot";
 }
