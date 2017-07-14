@@ -7,11 +7,11 @@ if (!WIT_TOKEN) {
 }
 
 // Messenger API parameters
-const FB_PAGE_TOKEN = "EAAWLj8DzgvEBAEMZCJZCPz7ly0riWjxtIUqHleAcUewlrqoEZBiIGHqkw9KEIESvpYZCF6SgJZAVfRxOtW8fdnRR4i6e7ZBxZAxPY7VaSoilSyl3ZC79rwnq7temSBsmMhDAbB4JKAf1obuPK1i8S9BJYuGLRMIURx3NekkBfr9zLQZDZD";
+const FB_PAGE_TOKEN = "EAACEdEose0cBADQNfZApA24ZCDRAqDzeBSjlM9rBr3zK9ySgqVUESrHdZC4QKMaZCQYVDDUBKFUpzvvZA7gKKZBa672dYZB9IH9JrcZCMUDjphVjFtJtShHXk1EFUEorof6lExo0Oa9ZCqNJAqLVmfn6oH3HtJgpEgO9PR0QInXZBp7A9WFZCSsz8ZAF1lJzlSseEP4ZD";
 
-var FB_VERIFY_TOKEN = "12345";
+var FB_VERIFY_TOKEN = "capgemini_banking_bot";
 if (!FB_VERIFY_TOKEN) {
-  FB_VERIFY_TOKEN = "just_do_it";
+  FB_VERIFY_TOKEN = "capgemini_banking_bot";
 }
 
 module.exports = {
